@@ -1,0 +1,14 @@
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\bin\Debug\net8.0\CommunityIS.Service.deps.json
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\bin\Debug\net8.0\CommunityIS.Service.runtimeconfig.json
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\bin\Debug\net8.0\CommunityIS.Service.dll
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\bin\Debug\net8.0\CommunityIS.Service.pdb
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.csproj.AssemblyReference.cache
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.AssemblyInfoInputs.cache
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.AssemblyInfo.cs
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.dll
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\refint\CommunityIS.Service.dll
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.pdb
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\CommunityIS.Service.genruntimeconfig.cache
+C:\Users\MONSTER_PC\source\repos\CommunityIS.Service\obj\Debug\net8.0\ref\CommunityIS.Service.dll
